@@ -110,8 +110,8 @@ Under the California Consumer Privacy Act (CCPA):
 
 If you have any questions about this Privacy Policy or Bubble Pop's privacy practices, please contact us:
 
-**Email:** support@bubblepop.app  
-**App Store:** Search "Bubble Pop" by [Your Developer Name]
+**Email:** satvana.apps@gmail.com  
+**App Store:** Search "Bubble Pop" by Satvana Apps
 
 Alternatively, you can contact us through:
 - App Store Review section
@@ -145,7 +145,6 @@ By using Bubble Pop, you agree to this Privacy Policy. If you do not agree, plea
 **Platform:** iOS  
 
 **Contact:** satvana.apps@gmail.com
-   **GitHub:** https://github.com/satvanaapps/bubble-pop
 
 ---
 
