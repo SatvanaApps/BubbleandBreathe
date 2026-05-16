@@ -1,16 +1,16 @@
-# Privacy Policy for Bubble Pop
+# Privacy Policy for Zen Pop
 
 **Last Updated: May 15, 2026**
 
 ## Introduction
 
-Bubble Pop ("we," "our," or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information in our mindfulness and breathing exercise app.
+Zen Pop ("we," "our," or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information in our mindfulness and breathing exercise app.
 
 ## Information Collection and Use
 
 ### Information We DO NOT Collect
 
-Bubble Pop is designed with privacy as a priority. We do NOT:
+Zen Pop is designed with privacy as a priority. We do NOT:
 
 - Collect any personal information
 - Track your location
@@ -62,11 +62,11 @@ https://www.apple.com/legal/privacy/
 
 ### No Other Third Parties
 
-Bubble Pop does not integrate with any other third-party services, analytics platforms, or advertising networks.
+Zen Pop does not integrate with any other third-party services, analytics platforms, or advertising networks.
 
 ## Children's Privacy
 
-Bubble Pop does not knowingly collect any information from children. The app is designed to be safe for all ages, with no data collection, no social features, and no external links (except for support and privacy policy).
+Zen Pop does not knowingly collect any information from children. The app is designed to be safe for all ages, with no data collection, no social features, and no external links (except for support and privacy policy).
 
 ## Your Rights
 
@@ -97,7 +97,7 @@ Your locally stored preferences are protected by:
 
 ## International Users
 
-Bubble Pop can be used worldwide. Since no data is collected or transmitted, there are no international data transfer concerns.
+Zen Pop can be used worldwide. Since no data is collected or transmitted, there are no international data transfer concerns.
 
 ## California Privacy Rights
 
@@ -111,7 +111,7 @@ Under the California Consumer Privacy Act (CCPA):
 If you have any questions about this Privacy Policy or Bubble Pop's privacy practices, please contact us:
 
 **Email:** satvana.apps@gmail.com  
-**App Store:** Search "Bubble Pop" by Satvana Apps
+**App Store:** Search "Zen Pop" by Satvana Apps
 
 Alternatively, you can contact us through:
 - App Store Review section
@@ -121,7 +121,7 @@ Alternatively, you can contact us through:
 
 **In Plain English:**
 
-Bubble Pop is a simple, private mindfulness app that:
+Zen Pop is a simple, private mindfulness app that:
 - ✅ Stores your preferences only on your device
 - ✅ Never sends your data anywhere
 - ✅ Doesn't track you
@@ -139,7 +139,7 @@ By using Bubble Pop, you agree to this Privacy Policy. If you do not agree, plea
 
 ---
 
-**App Name:** Bubble Pop  
+**App Name:** Zen Pop  
 **Developer:** Satvana Apps  
 **Category:** Health & Fitness (Mindfulness)  
 **Platform:** iOS  
