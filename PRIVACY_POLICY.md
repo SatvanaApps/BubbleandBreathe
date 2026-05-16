@@ -108,7 +108,7 @@ Under the California Consumer Privacy Act (CCPA):
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy or Bubble Pop's privacy practices, please contact us:
+If you have any questions about this Privacy Policy or Zen Pop's privacy practices, please contact us:
 
 **Email:** satvana.apps@gmail.com  
 **App Store:** Search "Zen Pop" by Satvana Apps
@@ -148,4 +148,4 @@ By using Bubble Pop, you agree to this Privacy Policy. If you do not agree, plea
 
 ---
 
-*This privacy policy is effective as of May 15, 2026, and applies to version 1.0 and later of Bubble Pop.*
+*This privacy policy is effective as of May 15, 2026, and applies to version 1.0 and later of Zen Pop.*
